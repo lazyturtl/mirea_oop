@@ -1,0 +1,1 @@
+public interface StringProcessor {int countChars(String s);String oddPositions(String s);String invert(String s);}
